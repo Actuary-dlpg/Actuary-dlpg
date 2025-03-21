@@ -1,1 +1,1 @@
-![Mi Fondo](https://mi-imagen.com/fondo.jpg)
+![Mi Fondo](https://github.com/Actuary-dlpg/Actuary-dlpg/blob/main/actuaryas.png)
